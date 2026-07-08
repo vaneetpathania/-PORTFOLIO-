@@ -43,7 +43,7 @@ cp .env.example .env      # then edit .env — at minimum, set your own ADMIN_KE
 npm start
 ```
 
-Open **http://localhost:3000** — that's your portfolio.
+Open **https://portfolio-2-fca1.onrender.com** — that's your portfolio.
 Open **http://localhost:3000/admin.html?key=YOUR_ADMIN_KEY** to see submitted messages.
 
 ## Getting an email whenever someone messages you (optional)
